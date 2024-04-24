@@ -21,7 +21,7 @@ Full stack software engineer, former bar director with Michelin standards.
  
 
  <p align="center"> 
- <img src="http://github-readme-streak-stats.herokuapp.com?user=okorkov&theme=highcontrast&hide_border=true">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=aokarkau&theme=highcontrast&hide_border=true">
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=okorkov&show_icons=true&count_private=true&theme=highcontrast"> -->
  </p>
 
