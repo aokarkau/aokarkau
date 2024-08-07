@@ -55,17 +55,19 @@ Full stack software engineer, former bar director with Michelin standards.
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/okorkov/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexandr.okorkov)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://alex-okorkov.medium.com/) -->
-
+<!-- 
 ## Projects:
-
+-->
+<!-- 
 <h3 align="center">  Recent Projects: </h3>
-
+-->
+<!-- 
 #### 🍔 Rmenu.org | [Website](https://rmenu.org) 
 RMenu is a web application that converts plain PDF menus into responsive web pages preserving original styling, with an ability to populate it with smart menu items with dietary preference filters and allergens, as well as the ability to create custom menu item filters specific to a certain kind of cuisines (eg. Gujarati food => Jain filter). The goal is to increase the transparency of menu items to end users and make the dining experience more convenient for people with food allergies and dietary restrictions.
-
+<!-- 
 #### 📽 Gif-in [GitHub Repo Front](https://github.com/okorkov/go-gif) | [Website](https://gif-in.web.app/)
 A simple video to gif converted made during my time working at Linkedin for a convenience of displaying dynamic content in READMEs for pull requests. The main goal while creating it was to make it fast and efficient, with no settings or choosing FPS as on most other platforms, gif-in was designed to convert video to gif github friendly that will have a 1000px resolution and has a dynamic FPS based on the video's length (higher FPS for shorter videos). Under the hood, I'm using ffmpeg library for processing videos.
-
+-->
 <!--
 Pinned:
 
